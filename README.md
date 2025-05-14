@@ -26,6 +26,8 @@ ResNet18 достигла валидационной точности 93.5% на
 После обучения модель была применена к 50 000 тестовым изображениям из файла images_sub.npy.
 Предсказания были сохранены в файл submission.csv в формате Kaggle (колонки Id, Category).
 
+## Tools: 
+
 * Python
 * Pytorch, Sklearn
 * Machine learning
